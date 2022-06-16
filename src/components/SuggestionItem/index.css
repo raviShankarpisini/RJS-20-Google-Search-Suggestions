@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.listItem-container {
+  width: 70vw;
+  list-style-type: none;
+  margin: 5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.li-heading {
+  font-family: 'Roboto';
+  font-size: 15px;
+  color: #475569;
+}
+.arrow-icon {
+  height: 15px;
+  margin: 5px;
+  cursor: pointer;
+  outline: none;
+}

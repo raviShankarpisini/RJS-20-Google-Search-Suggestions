@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  background-size: cover;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.google-image {
+  height: 60px;
+  max-height: 100px;
+  margin: 10px;
+}
+.card-container {
+  padding: 10px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  min-width: 80%;
+}
+.search-container {
+  display: flex;
+  flex-direction: row;
+}
+.search-bar {
+  width: 100%;
+  border: none;
+}
+.search-icon {
+  height: 20px;
+  margin: 5px;
+}
